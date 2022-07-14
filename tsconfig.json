@@ -1,0 +1,13 @@
+{
+  "include": [
+    "./src"
+  ],
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "System",
+    "outDir": "./dist",
+    "outFile": "./dist/app.js"
+  },
+    //  指定要使用的库
+  // "lib": ["DOM"]//???
+}
